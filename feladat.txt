@@ -1,0 +1,21 @@
+﻿Brazília feladat
+----------------
+
+	Tervezés:
+
+	- Elrendezés megtervezése saját ötlet alapján (legyen benne valamilyen menürendszer)
+	- Színek, topológia, egyéb design elemek saját ötlet alapján 
+	- Képek felhasználása saját tervek alapján
+	
+	Implementáció
+	
+	- Jól strukturált HTML kód a logikailag megfelelő tag-ekkel és jelölőkkel
+	- Külső linkek:
+		Az "A rioi karnevál" bekezdésben
+			* Rio De Janeiro - a város wiki oldala (cím a forrásban)
+		A "Beutazási szabályok" bekezdésben
+			* DUTY FREE BRASIF - a repülőtéri üzlet oldala (cím a forrásban)
+		A "Védőoltás" bekezdésben
+			* magyar egészségügyi hatóságoknál - a nemzeti népegészségügyi központ oldala (cím a forrásban)
+			
+	- Formázás bootstrap és/vagy w3.css rendszerekkel és/vagy saját külső-belső stílussal (egy-két sorközi stílus megengedett)
